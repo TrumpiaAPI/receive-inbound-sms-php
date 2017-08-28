@@ -1,3 +1,4 @@
+## Overview ##
 This PHP application demonstrates how to receive inbound messages with Trumpia's API. Trumpia’s inbound API will send an XML string via HTTP GET to a URL of your choice. The code sample will retrieve the XML string and parse the tags. Each record is logged into a CSV file with its tag and content of the tag. A secure(HTTPS) callback URL can be supported, but will require Trumpia to configure the servers with your information.
 
 If you wish to have a secure API endpoint please email [apisupport@mytrum.com](mailto:apisupport@mytrum.com) with the following information.
@@ -18,6 +19,7 @@ The following tags should be expected:
  * Dataset_id
  * Dataset_name
 
+## Application Workflow ##
 Once the data has been received, a CSV file is created. The Trumpia object allows the user to log any designated tag to the file. For this sample code and purpose the following are logged.
  1. Subscription_uid
  2. Phone_number
