@@ -1,3 +1,12 @@
+## Trumpia API ##
+Trumpia API enables users to seamlessly integrate our technologies into their application. And with high throughput rates, a free shared short code, and included web-based user interface, we offer a complete and unmatched suite of SMS messaging functionalities. This is just one of those many powerful use cases.
+
+#### [Click here to sign up for free Trumpia account!](https://api.trumpia.com) ####
+
+[Trumpia Home Page](https://trumpia.com)
+
+[REST API Documentation](http://api.trumpia.com/docs/rest/overview.php)
+
 ## Overview ##
 This PHP application demonstrates how to receive inbound messages with Trumpia's API. Trumpia’s inbound API will send an XML string via HTTP `GET` to a URL of your choice. The code sample will retrieve the XML string and parse the tags. Each record is logged into a CSV file with its tag and content of the tag. A secure(HTTPS) callback URL can be supported, but will require Trumpia to configure the servers with your information.
 
