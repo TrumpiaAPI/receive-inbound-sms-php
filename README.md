@@ -1,7 +1,7 @@
 # Trumpia API #
 Trumpia API enables users to seamlessly integrate our technologies into their application. And with high throughput rates, a free shared short code, and included web-based user interface, we offer a complete and unmatched suite of SMS messaging functionalities. This is just one of those many powerful use cases.
 
-#### [Click here to sign up for free Trumpia account!](https://api.trumpia.com) ####
+#### [Click here to get your free Trumpia API key!](https://api.trumpia.com) ####
 
 [Trumpia Home Page](https://trumpia.com)
 
